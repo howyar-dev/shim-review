@@ -296,7 +296,7 @@
 
   *******************************************************************************
 
-  Build logs are located in the build-logs/ directory, including:"
+  Build logs are located in the build-logs/ directory, including:
 
     - `docker-build.log`
 
